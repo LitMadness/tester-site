@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://litmadness.github.io/tester-site/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://litmadness.github.io/tester-site/</loc>
+</url>
+<url>
+<loc>https://litmadness.github.io/tester-site/about/</loc>
+<lastmod>2026-05-11T16:55:36-05:00</lastmod>
+<image:image>
+<image:loc>https://litmadness.github.io/tester-site/media/posts/2/h-aboutFIX.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://litmadness.github.io/tester-site/books/</loc>
+<lastmod>2026-05-12T00:02:47-05:00</lastmod>
+<image:image>
+<image:loc>https://litmadness.github.io/tester-site/media/posts/18/h-seductive.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://litmadness.github.io/tester-site/media/posts/18/Snowlit-600-illus.jpg</image:loc>
+<image:title><![CDATA[Snowlit Christmas Kiss]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://litmadness.github.io/tester-site/media/posts/18/Frosty-600-illus.jpg</image:loc>
+<image:title><![CDATA[Frosty Christmas Kiss]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://litmadness.github.io/tester-site/media/posts/18/24-MOONLIT-600.jpg</image:loc>
+<image:title><![CDATA[A Moonlit Christmas Kiss]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://litmadness.github.io/tester-site/media/posts/18/LadyScandal-600.jpg</image:loc>
+<image:title><![CDATA[Lady Scandal]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://litmadness.github.io/tester-site/media/posts/18/LadyImposter600.jpg</image:loc>
+<image:title><![CDATA[Lady Imposter]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://litmadness.github.io/tester-site/media/posts/18/LadyReckless_600-2.jpg</image:loc>
+<image:title><![CDATA[Lady Reckless]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://litmadness.github.io/tester-site/books/a-frosty-christmas-kiss/</loc>
+</url>
+<url>
+<loc>https://litmadness.github.io/tester-site/books/a-moonlit-christmas-kiss/</loc>
+</url>
+<url>
+<loc>https://litmadness.github.io/tester-site/books/a-snowlit-christmas-kiss/</loc>
+</url>
+<url>
+<loc>https://litmadness.github.io/tester-site/books/lady-imposter/</loc>
+</url>
+<url>
+<loc>https://litmadness.github.io/tester-site/books/lady-reckless/</loc>
+</url>
+<url>
+<loc>https://litmadness.github.io/tester-site/books/lady-scandal/</loc>
+</url>
+<url>
+<loc>https://litmadness.github.io/tester-site/series/</loc>
+<lastmod>2026-05-11T12:45:54-05:00</lastmod>
+<image:image>
+<image:loc>https://litmadness.github.io/tester-site/media/posts/7/h-series-desk.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://litmadness.github.io/tester-site/media/posts/7/s-kisses.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://litmadness.github.io/tester-site/media/posts/7/s-scandals.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://litmadness.github.io/tester-site/series/mistress/</loc>
+</url>
+<url>
+<loc>https://litmadness.github.io/tester-site/series/regency-christmas-kisses/</loc>
+</url>
+<url>
+<loc>https://litmadness.github.io/tester-site/series/steamy-scandals/</loc>
+</url>
+</urlset>

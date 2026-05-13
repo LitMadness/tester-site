@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://litmadness.github.io/tester-site/sitemap.xml
