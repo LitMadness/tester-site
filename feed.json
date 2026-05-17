@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Larissa Lyons",
     "description": "",
-    "home_page_url": "https://litmadness.github.io/tester-site",
-    "feed_url": "https://litmadness.github.io/tester-site/feed.json",
+    "home_page_url": "https://larissalyons.com",
+    "feed_url": "https://larissalyons.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "lm"
